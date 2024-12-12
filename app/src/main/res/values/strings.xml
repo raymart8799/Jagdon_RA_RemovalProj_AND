@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RemovalProject</string>
+
+    //menu_list
+    <string name="menu_item_title">Menu Item Title</string>
+    <string name="menu_item_price">Menu Item Price</string>
+    <string name="delete">Delete</string>
+
+    //fragment_menu.xml
+    <string name="menu">Menu</string>
+    <string name="add_item">Add Item</string>
+
+    //dialog_add_menu_item.xml
+    <string name="food_name">Food Name</string>
+    <string name="price">Price</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+
+    <string name="save_button_text">Save</string>
+</resources>
